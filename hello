@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>minha primeira página</title>
 </head>
-<body>
+<body>  
     <p>ola mundo mundano o tempo passou e eu continuo pensano como vc pode agir como um tirano </p>
 <script>
     alert("olá boa tarde essa é a letra do script")
