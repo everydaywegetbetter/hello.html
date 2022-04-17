@@ -1,2 +1,2 @@
 # hello.html
-primeiros passos para o vs code
+criando os primeiros arquivos com o github e vs code
